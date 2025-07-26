@@ -1,0 +1,26 @@
+/* Hide Unused Nonsense */
+
+.expression-picker-chat-input-button:not(div[class*="vc-chatbar-button"]),
+button[aria-label="Send a gift"],
+div.channelAppLauncher_e6e74f,
+.unreadMentionsIndicatorBottom_ef3116,
+.unreadMentionsFixedFooter_ef3116 {
+	display:none !important;
+}
+
+/* Adjustments */
+
+section[aria-label="User area"] {
+	bottom: 23px !important;
+}
+
+.sidebarList_c48ade,
+.chat_f75fb0[data-has-border=true],
+.searchBar__97492,
+.container_c8ffbb {
+	border: none !important;
+}
+
+.wrapper_cc5dd2 > svg{
+	filter: saturate(1);
+}
