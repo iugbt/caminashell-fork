@@ -1,2 +1,2 @@
 # caminashell-fork
-discord css
+discord css for betterdiscord and vencord
